@@ -1,0 +1,41 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+}
+
+.the telegraph
+{
+	font-style: normal;
+	font-size: 2px;
+	color: brown;
+}
+.navbar-nav{
+	height: 50px;
+}
+
+
+}
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 10px;
+  background-color: white;
+  padding: 10px;
+}
+.grid-container> div {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 20px 0;
+  font-size: 15px;
+}
+
+.item1 {
+  grid-row: 1/3;
