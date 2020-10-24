@@ -73,3 +73,15 @@ a:visited {
 	margin: 8px;
 	min-height: 500px;
 }
+#right5{
+	width: 30%;
+	float: right;
+	margin: 8px;
+	min-height: 300px;
+}
+#left5{
+	width: 60%;
+	margin: 8px;
+	float: left;
+	min-height: 300px;
+	}
